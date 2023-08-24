@@ -1,6 +1,6 @@
 # contracts
 
-Wrapped Ordinals contracts.
+Redeemer contracts.
 
 # Setup and Installation
 
