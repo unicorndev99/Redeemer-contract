@@ -7,7 +7,7 @@ import "./IUpstreetLand.sol";
 contract Redeemer {
 
     ERC721Burnable public burnableToken;
-    IUpstreetLand public thisToken;
+    IUpstreetLand public newToken;
     uint256 public landAmountPerGenesisPass = 2;
     
     mapping(uint256 => bool) private _redeems;
